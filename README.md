@@ -27,6 +27,6 @@ Este proyecto tiene el objetivo de analizar el comportamiento de los usuarios de
 - Establecer el valor de alfa y las hipótesis nula y alternativa.
 
 ## Herramientas Utilizadas
-- Python: Para el análisis de datos, incluyendo librerías como Pandas, NumPy, y Matplotlib.
+- Python: Para el análisis de datos, incluyendo librerías como Pandas, NumPy y Matplotlib, además de SciPy, Seaborn, Math y Matplotlib.
 - Jupyter Notebook: Para la estructura del proyecto y la integración del código y las explicaciones.
 
